@@ -1,0 +1,72 @@
+
+#header {
+    font: 'arial';
+    padding: 10px;
+    background-color: #4aaaa5;
+    color: whitesmoke;
+    border-bottom: #777777 solid 2px;
+    width: 100%;
+}
+
+.ruleList {
+    float: left;
+    padding: 20px;
+    padding-bottom: 40px;
+    background-color: white;
+    border: #777777 solid .5px;
+    margin-left: 40px;
+}
+
+
+
+
+
+.group {
+    padding: 10px;
+    margin-left: 40px;
+    background-color: white;
+    border: #777777 solid 0.5px;
+    max-width: 960px;
+    width: 600px;
+    float: left;
+}
+
+body {
+    background-image: url(../images/rockywall.png);
+}
+
+.footer {
+    height: 90px;
+    border-top: 10px solid#4aaaa5;
+    margin-top: 100px;
+    background-color:grey; 
+    width: 100%;
+    position: fixed;
+    bottom:0;
+}
+
+
+
+p {
+    font-size: 20pt;
+    color: #4aaaa5;
+    border-bottom: #777777 solid 0.5px;
+}
+
+#winS {
+    font-size: 18pt;
+    color: #4aaaa5;
+    padding-bottom: 10px;
+}
+
+#losS {
+    font-size: 18pt;
+    color: #4aaaa5;
+    border-bottom: #777777 0.5px solid;
+}
+
+#container {
+    padding: 8px;
+    background-color: whitesmoke;
+    width: 300px;
+}
